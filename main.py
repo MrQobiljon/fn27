@@ -6,3 +6,6 @@ print("Salom Dunyo")
 
 for i in range(10):
     print(i)
+
+
+print("Nima gaplar!")
