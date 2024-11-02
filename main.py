@@ -8,3 +8,5 @@ for i in range(10):
     print(i)
 
 print("Fn27 ga salomlar")
+
+print("Hamma shoshyapti")
